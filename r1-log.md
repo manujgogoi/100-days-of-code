@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Manuj Gogoi]
 
 The log of my #100DaysOfCode challenge. Started on [August 09, Monday, 2021].
 
