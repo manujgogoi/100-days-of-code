@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: August 09, 2021
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learn CSS flexbox, read articles on Javascript Module.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am very bad at design and Layout Websites. I want to clear my concepts on CSS positioning, flexbox, grids etc for designing complex layouts easily. I also want to master MERN Stack.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Codepen](https://codepen.io/manujgogoi/pen/zYwyrJe), [Github](https://github.com/manujgogoi/)
 
-### Day 0: February 30, 2016 (Example 2)
+<!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +27,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
