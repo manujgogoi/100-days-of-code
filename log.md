@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 09, 2021
-##### (delete me or comment me out)
+### Day 1: August 09, 2021
 
 **Today's Progress**: Learn CSS flexbox, read articles on Javascript Module.
 
@@ -9,22 +8,23 @@
 
 **Link to work:** [Codepen](https://codepen.io/manujgogoi/pen/zYwyrJe), [Github](https://github.com/manujgogoi/)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 10, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned some basics of TypeScript, such as:
+1. Install TypeScript using npm
+2. Compile TypeScript file using tsc
+3. Read articles on Type Inference, Interface and implementing an Interface.
+I also started a project to build an E-commerce product page using mainly CSS flexbox. (partially completed).
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** While building the webpage, I was confused with some CSS Flexbox properties and it made my mind completely blank. I need to practice more to clear flexbox concept.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 3: August 11, 2021
 
+**Today's Progress**: Today I have learned JavaScript array data structure and its built-in methods. 
+I have completed my project on E-Commerce Product Page. I have used JavaScript fetch API to get some demo products from Fake Store API.
+It is not looking great but by doing this, I have learned lot of things related to CSS.
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Thoughts:** Today I'm happy to complete this Web project. I'm thinking to extend and improve this Web project to a fully functional e-commerce website in near future.
+**Link to work:**
+[Codepen] https://codepen.io/manujgogoi/pen/mdmvqjz
+[Github] https://github.com/manujgogoi/ecommerceProductPage
