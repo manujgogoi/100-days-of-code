@@ -25,6 +25,7 @@ I have completed my project on E-Commerce Product Page. I have used JavaScript f
 It is not looking great but by doing this, I have learned lot of things related to CSS.
 
 **Thoughts:** Today I'm happy to complete this Web project. I'm thinking to extend and improve this Web project to a fully functional e-commerce website in near future.
+
 **Link to work:**
 [Codepen] https://codepen.io/manujgogoi/pen/mdmvqjz
 [Github] https://github.com/manujgogoi/ecommerceProductPage
