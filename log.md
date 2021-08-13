@@ -29,3 +29,18 @@ It is not looking great but by doing this, I have learned lot of things related 
 **Link to work:**
 [Codepen] https://codepen.io/manujgogoi/pen/mdmvqjz
 [Github] https://github.com/manujgogoi/ecommerceProductPage
+
+### Day 4: August 12, 2021
+
+**Today's Progress**: Today I have learned basic git commands. I also learned some JavaScript built-in methods and their uses.
+
+**Thoughts:** Today I'm upset little bit. I couldn't start any project due to Internet problem. 
+
+### Day 5: August 13, 2021
+
+**Today's Progress**: Today I have created a JavaScript project to convert any number between 1 - 99999999999999 into a word string.
+
+**Thoughts:** I'm very slow in learning. From now I'm going to speed up my learning skill.
+
+**Link to work:**
+[Github] https://github.com/manujgogoi/NumberToWord
