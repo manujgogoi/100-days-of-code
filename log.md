@@ -44,3 +44,29 @@ It is not looking great but by doing this, I have learned lot of things related 
 
 **Link to work:**
 [Github] https://github.com/manujgogoi/NumberToWord
+
+### Day 6: August 14, 2021
+
+**Today's Progress**: I've started my Django learning journey from today. Today I have learned:
+* virtual environment (venv) setup for a Django project.
+* Install Django inside of the venv.
+* configure MySQL (XAMPP) with Django.
+* test Django HelloWorld app
+
+**Thoughts:** I took a basic crash course of Django in past, but I have lots of confusions. Now I'm going to clear my doubts on Django and have started to learn deeply.
+
+### Day 7: August 15, 2021
+
+**Today's Progress**: Today I've learned:
+* Django Models
+* create model class by extending django.db.models.Model class
+* create __str__(self) method inside of a model.
+* create custom methods inside of a model.
+* practice python manage.py shell
+* python manage.py makemigrations
+* python manage.py sqlmigrate <app_name> <migration_no>
+* python manage.py migrate
+
+I also watched some basic tutorial videos on Three.js
+
+**Thoughts:** I was little bit busy today. But I was enjoying Django Model tutorial. But I can't clear my concepts on Three.js
