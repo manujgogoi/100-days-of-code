@@ -58,7 +58,8 @@ It is not looking great but by doing this, I have learned lot of things related 
 ### Day 7: August 15, 2021
 
 **Today's Progress**: Today I've learned:
-* Django Models
+
+1. Django Models
 * create model class by extending django.db.models.Model class
 * create __str__(self) method inside of a model.
 * create custom methods inside of a model.
@@ -67,6 +68,6 @@ It is not looking great but by doing this, I have learned lot of things related 
 * python manage.py sqlmigrate <app_name> <migration_no>
 * python manage.py migrate
 
-I also watched some basic tutorial videos on Three.js
+2. I also watched some basic tutorial videos on Three.js
 
-**Thoughts:** I was little bit busy today. But I was enjoying Django Model tutorial. But I can't clear my concepts on Three.js
+**Thoughts:** I was little bit busy today. But I was enjoying Django Model tutorial. But I couldn't clear my concepts on Three.js. I'll try again later.
