@@ -61,7 +61,7 @@ It is not looking great but by doing this, I have learned lot of things related 
 
 1. Django Models
 * create model class by extending django.db.models.Model class
-* create __str__(self) method inside of a model.
+* create &#95;&#95;str&#95;&#95;(self) method inside of a model.
 * create custom methods inside of a model.
 * practice python manage.py shell
 * python manage.py makemigrations
