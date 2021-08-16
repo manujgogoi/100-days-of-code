@@ -74,7 +74,7 @@ It is not looking great but by doing this, I have learned lot of things related 
 
 ### Day 8: August 16, 2021
 
-**Today's Progress"": Today I've leaned:
+**Today's Progress**: Today I've leaned:
 * Django Models relationship using ForeignKey
 * Django Admin for superuser
 * Create Views and wire views into urlConf
