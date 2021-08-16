@@ -70,4 +70,13 @@ It is not looking great but by doing this, I have learned lot of things related 
 
 2. I also watched some basic tutorial videos on Three.js
 
-**Thoughts:** I was little bit busy today. But I was enjoying Django Model tutorial. But I couldn't clear my concepts on Three.js. I'll try again later.
+**Thoughts:** Want to learn more.
+
+### Day 8: August 16, 2021
+
+**Today's Progress"": Today I've leaned:
+* Django Models relationship using ForeignKey
+* Django Admin for superuser
+* Create Views and wire views into urlConf
+* Template system
+* Add namespaces to apps URLconf by adding app_name
