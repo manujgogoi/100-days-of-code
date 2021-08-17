@@ -80,3 +80,9 @@ It is not looking great but by doing this, I have learned lot of things related 
 * Create Views and wire views into urlConf
 * Template system
 * Add namespaces to apps URLconf by adding app_name
+
+### Day 9: August 17, 2021
+
+**Today's Progress**: Today I've learned: 
+* Django's generic views (ListView, DetailView)
+* Introduction of Automated Testing
