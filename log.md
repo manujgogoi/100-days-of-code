@@ -86,3 +86,7 @@ It is not looking great but by doing this, I have learned lot of things related 
 **Today's Progress**: Today I've learned: 
 * Django's generic views (ListView, DetailView)
 * Introduction of Automated Testing
+
+### Day 10: August 18, 2021
+
+**Today's Progress**: Today I have started a small project on creating a simple Calculator App using HTML, CSS, and JavaScript. I have used the CSS grid system to layout the buttons and display screen. The JavaScript part is about half-completed.
