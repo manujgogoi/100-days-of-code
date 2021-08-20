@@ -90,3 +90,14 @@ It is not looking great but by doing this, I have learned lot of things related 
 ### Day 10: August 18, 2021
 
 **Today's Progress**: Today I have started a small project on creating a simple Calculator App using HTML, CSS, and JavaScript. I have used the CSS grid system to layout the buttons and display screen. The JavaScript part is about half-completed.
+
+### Day 11: August 19, 2021
+
+**Today's Progress**: Today I have completed my Simple Calculator app using HTML, CSS and JavaScript. I have also practiced Django automated testing codes.
+
+### Day 12: August 20, 2021
+
+**Today's Progress**:
+* Leaned to add static files (images, JavaScript, or CSS) in Django app.
+* Customize the admin look and feel.
+* Write reusable apps in Django.
